@@ -1,0 +1,14 @@
+"id","status_name","is_active","created_date","order_by"
+1,Incomplete Booking,false,2019-03-05,
+2,Payment In Progress,false,2019-03-05,
+3,Payment Complete,false,2019-03-05,
+4,Payment Error,false,2019-03-05,
+5,Ready for Farm Out,false,2019-03-05,
+14,Deleted,false,2019-03-07,
+11,In Progress,true,2019-03-05,1
+9,Upcoming,true,2019-03-05,2
+8,Available,true,2019-03-05,3
+13,Cancelled,true,2019-03-07,4
+12,Completed,true,2019-03-07,5
+7,Quoted,true,2019-03-05,7
+16,Pending Availability,true,2020-02-28,6
